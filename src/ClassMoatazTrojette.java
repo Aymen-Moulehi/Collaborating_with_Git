@@ -1,4 +1,4 @@
-public class Classe_Moataz_Trojette {
+public class ClassMoatazTrojette {
 
     public String getUser()
     {
