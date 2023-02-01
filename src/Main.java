@@ -5,5 +5,7 @@ public class Main {
         System.out.println(MT.getUser());
         ClassGherianiMohamed GM = new ClassGherianiMohamed();
         GM.saymyName();
+        ClassBalighOthman G = new ClassBalighOthman();
+        G.Baligh();
     }
 }
