@@ -4,4 +4,8 @@ public class ClassMoatazTrojette {
     {
         return "Moataz Trojette";
     }
+    public void Msg()
+    {
+        System.out.println("hello");
+    }
 }
