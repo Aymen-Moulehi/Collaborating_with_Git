@@ -5,5 +5,8 @@ public class Main {
         ClassMoatazTrojette MT = new ClassMoatazTrojette();
         System.out.println(MT.getUser());
 
+        ClassAymenMoulehi aymenMoulehi = new ClassAymenMoulehi();
+        System.out.println(aymenMoulehi.sayMyName());
+
     }
 }
