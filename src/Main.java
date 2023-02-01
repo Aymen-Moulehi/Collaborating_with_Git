@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Baligh Othman!");
         ClassMoatazTrojette MT = new ClassMoatazTrojette();
         System.out.println(MT.getUser());
+        MT.Msg();
         ClassGherianiMohamed GM = new ClassGherianiMohamed();
         GM.saymyName();
         ClassBalighOthman G = new ClassBalighOthman();
